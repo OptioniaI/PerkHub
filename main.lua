@@ -294,7 +294,7 @@ MiscTab.Button({
 MiscTab.Button({
 	Text = "Reload UI",
 	Callback = function()
-        game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/PerkHub/main/main.lua"))()
 	end,
 })
 
