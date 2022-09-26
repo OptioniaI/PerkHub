@@ -9,7 +9,7 @@ Script: `loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Pe
 
 
 
-**UPDATES:
+**UPDATES:**
 
-• A Hero's Destiny: Added:**                                                                                                                                
+**• A Hero's Destiny: Added:**                                                                                                                                
 `Remove Fog, Fix Clock, Kill Player.`
