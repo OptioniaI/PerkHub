@@ -1,6 +1,6 @@
 **Perk Hub is a script hub that is used for exploits and was created on September 20th, 2022.**
 
-Discord: **https://discord.gg/KaDF4XSXgk**
+Discord: **https://discord.gg/3rdN6V9hQf**
 
 Supported Games:                                                                                                                                            
 •  A Hero's Destiny
