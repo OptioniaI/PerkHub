@@ -6,3 +6,10 @@ Supported Games:
 •  A Hero's Destiny
 
 Script: `loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/PerkHub/main/main.lua"))();`
+
+
+
+**UPDATES:
+
+• A Hero's Destiny: Added:**                                                                                                                                
+`Remove Fog, Fix Clock, Kill Player.`
