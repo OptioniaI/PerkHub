@@ -7,11 +7,11 @@ Supported Games:
 
 Script:
 
-`_G.DTC = true -- | Must keep on true to make sure you don't crash.`
+`_G.DTC = true -- | Must keep on true to make sure you don't crash.
 
-`_G.IGR = true -- | Can turn off to fix certain bugs with the script, but may not work sometimes.`
+_G.IGR = true -- | Can turn off to fix certain bugs with the script, but may not work sometimes.
 
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/PerkHub/main/main.lua"))();`
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/PerkHub/main/main.lua"))();`
 
 
 
