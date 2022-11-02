@@ -20,3 +20,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/PerkHub/mai
 
 **• A Hero's Destiny:**                                                                                                                                
 `Infinite Stamina/Chat Commands, and Anti Staff Detection.`
+
+
+./perkhub
+  bin/
+    perkhub.lua
+  README.md
