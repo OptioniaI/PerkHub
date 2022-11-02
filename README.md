@@ -5,7 +5,7 @@ Discord: **https://discord.gg/3rdN6V9hQf**
 Supported Games:                                                                                                                                            
 •  A Hero's Destiny
 
-Script:
+**__Script:__**
 
 ```
 _G.DTC = true -- | Must keep on true to make sure you don't crash.
@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/PerkHub/mai
 ```
 
 
-**UPDATES:**
+**CHANGELOGS:**
 
 **• A Hero's Destiny:**                                                                                                                                
 `Infinite Stamina/Chat Commands, and Anti Staff Detection.`
